@@ -8,7 +8,7 @@ The testing verifies that all expected functionalities work as intended, ensurin
 
 ## 🎯 Objectives
 - Validate the **Admin** module functionalities: user management, job Details , organization settings, and Qualifications.
-- Verify the **My Info** module(ESS View):including personal details, contact details, job details, Qualifications, Report to, Membership, Dependents, Immigration, and emergency contacts 
+- Verify the **My Info** module(ESS View):including personal details, contact details, job details, Qualifications, Report to, Membership, Dependents, Immigration, and emergency contacts.
 - Ensure the UI and data fields function as expected.
 
 ---
