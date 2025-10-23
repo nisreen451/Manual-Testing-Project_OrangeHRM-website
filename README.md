@@ -7,8 +7,8 @@ The testing verifies that all expected functionalities work as intended, ensurin
 ---
 
 ## 🎯 Objectives
-- Validate the **Admin** module functionalities: User Management, Job, Organization, etc.
-- Verify the **My Info** module for employee information update.
+- Validate the **Admin** module functionalities: user management, job Details , organization settings, and Qualifications.
+- Verify the **My Info** module(ESS View):including personal details, contact details, job details, Qualifications, Report to, Membership, Dependents, Immigration, and emergency contacts 
 - Ensure the UI and data fields function as expected.
 
 ---
@@ -16,8 +16,9 @@ The testing verifies that all expected functionalities work as intended, ensurin
 ## 🧰 Tools Used
 - **Test Management:** Excel  
 - **Bug Tracking:** Excel  
-- **Documentation:** Word  
+- **Documentation:** Word/Excel/Google sheets  
 - **Test Environment:** OrangeHRM Demo Website
+- **Task Allocation:** Trello 
 
 ---
 
@@ -26,7 +27,7 @@ The testing verifies that all expected functionalities work as intended, ensurin
 
 ## 🧾 Deliverables
 - Test Plan  
-- Test Case Sheets  
+- Test Case Sheets(Desin and Execue Test cases) 
 - RTM (Requirement Traceability Matrix)  
 - Bug Reports and Screenshots  
 
@@ -40,8 +41,8 @@ QA Engineer
 ---
 
 ## 🗓️ Project Duration
-**Start Date:** March 2025  
-**End Date:** April 2025
+**Start Date:** 23 December 2024 
+**End Date:**  30 December 2024 
 
 
 ## 📂 Project Structure
